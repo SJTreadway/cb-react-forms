@@ -16,6 +16,8 @@ import Checkboxes from "./Checkboxes";
 import HeaderLabel from "./HeaderLabel";
 import NumberInput from "./NumberInput";
 import RadioButtons from "./RadioButtons";
+import Download from "./Download";
+import Camera from "./Camera";
 
 export {
 	Tags,
@@ -35,5 +37,7 @@ export {
   Checkboxes,
   NumberInput,
 	HeaderLabel,
-  RadioButtons
+  RadioButtons,
+  Download,
+  Camera
 };
